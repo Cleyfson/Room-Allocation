@@ -1,4 +1,3 @@
-// NÃO ALTERE ESSA LINHA
 #include "Alocacao.hpp"
 #include "Disciplina.hpp"
 #include "QuadroAlocacao.hpp"
