@@ -29,4 +29,3 @@ void Disciplina::imprimir_alocacao() // imprime todas as alocações para a disc
         (*iter).imprimir_dados();
     }
 }
-kkkkk
