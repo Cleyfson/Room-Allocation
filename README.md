@@ -1,6 +1,6 @@
 # Room Allocation
  
-A small project developed in C++ language, for the discipline of Algorithms and Data Structures. The program makes use of some functionality from the C++ Standard Template Library, to simulate the allocation and organization of classrooms for a
+A small project developed in C++ language, for the discipline of programming and development. The program makes use of some functionality from the C++ Standard Template Library, to simulate the allocation and organization of classrooms for a
 Department.
 
 It is possible to simulate this process through the following input commands to the program <br />
